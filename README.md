@@ -1,6 +1,8 @@
 ### Greetings viewer :wave:
-- Education :books:: Studying Computer Science at ASU\
-                     Associate's Degree in Mathematics
+
+- Education :books:: Studying Computer Science at ASU<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Associate's Degree in Mathematics
+
 
 <!--
 **justinozzy/justinozzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
