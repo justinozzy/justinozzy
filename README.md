@@ -1,5 +1,5 @@
 ### Greetings viewer :wave:
-- Education :books:: Studying Computer Science at ASU
+- Education :books:: Studying Computer Science at ASU\
                      Associate's Degree in Mathematics
 
 <!--
