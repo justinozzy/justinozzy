@@ -2,7 +2,7 @@
 
 - Education 📚: Studying Computer Science at ASU<br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Associate's Degree in Mathematics<br>
-- Favorite Languages ❤️: C/C++, Python, TypeScript
+- Favorite Languages ❤️: C/C++, Python, Assembly, TypeScript
 
  
 <!--
