@@ -1,8 +1,11 @@
 ### Greetings viewer :wave:
 
-- Education 📚: Bachelor's in Computer Science from ASU<br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;Associate's Degree in Mathematics<br>
-- Favorite Languages ❤️: C/C++, Python, Assembly, TypeScript
+Education 📚:
+- Bachelor's in Computer Science from ASU<br>
+- Associate's Degree in Mathematics<br>
+
+Favorite Languages ❤️:
+- C/C++, Python, Java, Assembly, TypeScript
 
  
 <!--
